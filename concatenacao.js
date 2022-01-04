@@ -1,12 +1,3 @@
-/*
-escreval("Digite o nome.")
-   leia(nome)
-   escreval("Digite a idade.")
-   leia(numero)
-   
-   escreval(nome, " tem", numero, " anos")
-   */
-
    var nome, idade;
 
 nome=prompt("Digite seu nome")
